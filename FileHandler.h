@@ -1,10 +1,3 @@
-/* 
- * File:   FileHandler.h
- * Author: Viktor
- *
- * Created on 7 de marzo de 2015, 17:39
- */
-
 #include <string>
 
 #include "Utils.h"
