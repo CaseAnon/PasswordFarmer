@@ -1,10 +1,3 @@
-/* 
- * File:   FTPHandler.h
- * Author: Viktor
- *
- * Created on 7 de marzo de 2015, 17:30
- */
-
 #include <string>
 
 #ifndef FTPHANDLER_H
