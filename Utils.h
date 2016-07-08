@@ -1,10 +1,3 @@
-/* 
- * File:   Utils.h
- * Author: Viktor
- *
- * Created on 7 de marzo de 2015, 17:49
- */
-
 #include <string>
 #include <vector>
 
