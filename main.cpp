@@ -1,9 +1,3 @@
-/* 
- * File:   main.cpp
- * Author: vdeunzue
- *
- * Created on 15 de diciembre de 2015, 8:21
- */
 #include <iostream>
 #include <windows.h>
 #include <wininet.h>
